@@ -10,7 +10,7 @@
 - **University:** General Sir John Kotelawala Defence University (KDU)
 
 ## 🌐 Live Deployment
-- **🌍 Live Website:** [https://oneli1128.github.io/portfolio-website](https://oneli1128.github.io/portfolio-website)
+- **🌍 Live Website:** [https://Oneli1128.github.io/portfolio-website](https://Oneli1128.github.io/portfolio-website)
 - **🎥 Video Demonstration:** [Insert OneDrive/Google Drive Link Here]
 
 
