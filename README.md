@@ -1,7 +1,6 @@
 ## Web Development Assignment
 ## Personal Portfolio Website
 
-![Portfolio Preview](images/me.jpg)
 
 ###  Student Information
 - **Name:** Oneli Gunasekara
